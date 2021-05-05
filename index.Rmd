@@ -33,7 +33,7 @@ knitr::include_graphics(here::here("imgs", "qgis_3.16.png"))
 
 ## Failihaldus ja andmed 
 
-Segaduste vältimiseks soovitan kasutada kaustade strutktuuri, kus käesoleva kursuse kaustas on teil QGISi projekti fail(id) .qgz ja kaks kausta *andmed* ja *kaardid*, kuhu panete vastavalt kõik praktikumis kasutatavad andmed ja valminud kaks kaarti. Võimalike probleemide vältimiseks võiks kursuse kaust olla kohas, kus ei ole täpitähti. Nt *C:/ut/kevad_2021/sj_materiaalne_kultuur/gis_praktikum/*.
+Segaduste vältimiseks soovitan kasutada kaustade strutktuuri, kus käesoleva kursuse kaustas on teil QGISi projekti fail(id) .qgz ja kaks kausta *andmed* ja *kaardid*, kuhu panete vastavalt kõik praktikumis kasutatavad andmed ja valminud kaks kaarti. Võimalike probleemide vältimiseks võiks kursuse kaust olla kohas, kus ei ole täpitähti. Nt *C:/ut/kevad_2021/sj_materiaalne_kultuur/gis_praktikum/*. Muidugi võite andmed panna ka lihtsalt töölauale või Downloads kausta.
 
 Struktuuri näide: 
 

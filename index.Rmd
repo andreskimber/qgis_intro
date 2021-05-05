@@ -222,9 +222,12 @@ knitr::include_graphics(here::here("imgs", "kultmal_avamine.PNG"))
 
 **Ühenda kultuurimälestiste tabel omavalitsuste kihiga: **
 
-- ava omavalitsuste kiht *omavalitsus.gpkg* samamoodi nagu eelmises harjutuses maakondade kiht 
+- ava omavalitsuste kiht *omavalitsus.gpkg* 
+    - *Layer → Add layer → Add vector layer*.
+    - Kliki *Vector Dataset(s)* juures sirvimise ikoonil (kolm punkti). Vali andmete kaustast fail *omavalitsus.gpkg* ja vajuta *Open*. Seejärel menüü all servas *Add* ja *Close*.
+    - Nüüd on avatud kiht kõigi Eesti omavalitsuste piirjoontega. Nende kõikide nägemiseks tee kihil parempoolne klikk ja vali *Zoom to layer*. Kihti avades annab QGIS sellele alati mingi suvalise värvi. 
 - Omavalitsuste kihil topeltklikk → vasakul servas *Joins* → all servas roheline plussmärk.
-    - *Join layer:* kirikud_maakonniti
+    - *Join layer:* kultuurimalestised
     - *Join field:* Vald
     - *Target field:* ONIMI. Siin määrame, milliste tulpade põhjal tuleks tabel ja maakonnad kokku panna
     - *Joined fields* ette linnuke ja ka linnuke ainult *Mälestisi* ja *Mäl/km2* ette, kuna me ei soovi tabelist võtta ka valdade nimesid, mis on omavalitsuste kihis juba olemas.

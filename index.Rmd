@@ -206,8 +206,8 @@ Ava Exceli, Notepadi vms programmiga fail *kultuurimalestised.csv*. Nagu näha o
 
 **Ava sama fail QGISis: **
 
-- lülita Mädara prooviaukude kiht ja alus kaart. 
-- *Layer → Add layer → Add delimited text layer*
+- Kõigepealt lülita kihtide paneelis välja Mädara prooviaukude kiht ja aluskaart. Neid kihte pole vaja selles harjutuses näha.
+- Seejärel *Layer → Add layer → Add delimited text layer*
 - Kliki *File Name* juures sirvimise ikoonil (kolm punkti). Vali kaustast fail *kultuurimalestised.csv*
 - *File format* juures vali *Custom delimiters* ning tee linnuke *Semicolon* ette.
 - *Record and Fields Options juures* tee linnuke *First record has field names* ette. See on vajalik, et QGIS arvestaks tabeli esimest rida kui tulpade pealkirju.
@@ -222,7 +222,7 @@ knitr::include_graphics(here::here("imgs", "kultmal_avamine.PNG"))
 
 **Ühenda kultuurimälestiste tabel omavalitsuste kihiga: **
 
-- ava omavalitsuste kiht *omavalitsus.gpkg* 
+- Ava omavalitsuste kiht *omavalitsus.gpkg* 
     - *Layer → Add layer → Add vector layer*.
     - Kliki *Vector Dataset(s)* juures sirvimise ikoonil (kolm punkti). Vali andmete kaustast fail *omavalitsus.gpkg* ja vajuta *Open*. Seejärel menüü all servas *Add* ja *Close*.
         - alternatiivina võid omavalitsuste kihi avada lihtsalt lohistades selle faili QGISi kaardiaknasse.

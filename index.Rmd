@@ -225,6 +225,7 @@ knitr::include_graphics(here::here("imgs", "kultmal_avamine.PNG"))
 - ava omavalitsuste kiht *omavalitsus.gpkg* 
     - *Layer → Add layer → Add vector layer*.
     - Kliki *Vector Dataset(s)* juures sirvimise ikoonil (kolm punkti). Vali andmete kaustast fail *omavalitsus.gpkg* ja vajuta *Open*. Seejärel menüü all servas *Add* ja *Close*.
+        - alternatiivina võid omavalitsuste kihi avada lihtsalt lohistades selle faili QGISi kaardiaknasse.
     - Nüüd on avatud kiht kõigi Eesti omavalitsuste piirjoontega. Nende kõikide nägemiseks tee kihil parempoolne klikk ja vali *Zoom to layer*. Kihti avades annab QGIS sellele alati mingi suvalise värvi. 
 - Omavalitsuste kihil topeltklikk → vasakul servas *Joins* → all servas roheline plussmärk.
     - *Join layer:* kultuurimalestised

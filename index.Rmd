@@ -98,7 +98,7 @@ Vaata kõigepealt andmeid. Ava Exceli, Notepadi vms programmiga fail madara_proo
 - Kliki *File Name* juures sirvimise ikoonil (kolm punkti). Vali kaustast fail *madara_prooviaugud.csv*
 - *File format* juures vali *Custom delimiters* ning tee linnuke *Semicolon* ette.
 - *Record and Fields Options juures* tee linnuke *First record has field names* ette. See on vajalik, et QGIS arvestaks tabeli esimest rida kui tulpade pealkirju.
-- *Geometry definition* vali *No geometry (attribute only table)*. See tuleb valida kuna antud tabelis ei ole koordinaate.
+- *Geometry definition* vali *Point coordinates*, *X field: x* ja *Y field: y*. Siin määratakse, millises tulbas asuvad vastavalt X ja Y koordinaat.
 - Kas akna all servas *Sample data* juures on andmed kujutatud eraldi tulpades? Kui ei, siis kontrolli, kas oled eelmised sammud õigesti teinud. 
 - All servas *Add → Close*. QGIS-i peaaknas peaksid nüüd nägema prooviaukude asukohti värviliste punktidena.
 

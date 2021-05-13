@@ -48,7 +48,7 @@ Struktuuri näide:
         - harjutus_3_kimber.jpeg
         - jne
         
-Praktikumis kasutatavad andmed leiate kursuse [Moodle'ist](https://moodle.ut.ee/) selle praktikumi materjalide alt. Laadige need alla, pakkige lahti (parempoolne klikk ja *Extract here*) ja asetage kausta *andmed*. 
+Praktikumis kasutatavad andmed leiate kursuse [Moodle'ist](https://moodle.ut.ee/) selle praktikumi materjalide alt ja ka lingilt [gis_praktikum_andmed](https://drive.google.com/file/d/1C3NTBLMQzlwo4Ql8SDv-BL7QcVCH2zlv/view?usp=sharing). Laadige need alla, pakkige lahti (parempoolne klikk ja *Extract here*) ja asetage kausta *andmed*.
 
 Harjutuste käigus kasutatud haldusjaotuse ruumiandmed on kättesaadavad ka Maa-ameti kodulehelt [geoportaal.maaamet.ee/est/Ruumiandmed-p1.html](https://geoportaal.maaamet.ee/est/Ruumiandmed-p1.html). Maakondade ja omavalitsuste piirid saab allalaadida haldus- asustusjaotuse alalehelt.
 
